@@ -9,6 +9,6 @@ No período de 2018 foi constatado que o Número de Pedidos foi de 3.258,
 Foi constatado que a categoria que mais vende foi a Furniture, seguido de technology,
 A região que mais vende foi a West,
 o Transporte mais usado foi a De Standard class,
-A cada ano o numero de vendas cresce,
+A cada ano o numero de vendas cresce
 
 
